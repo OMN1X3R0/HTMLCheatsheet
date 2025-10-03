@@ -5,37 +5,13 @@
   "version": "1.0.0",
   "version_name": "1.0.0",
   "lang": "en-US",
-  "start_url": "/",
+  "start_url": ".",
   "display": "standalone",
   "theme_color": "#667eea",
   "background_color": "#ffffff",
   "orientation": "any",
   "categories": ["education", "productivity", "utilities"],
   "icons": [
-    {
-      "src": "icons/icon-32x32.png",
-      "sizes": "32x32",
-      "type": "image/png",
-      "purpose": "any"
-    },
-    {
-      "src": "icons/icon-64x64.png",
-      "sizes": "64x64",
-      "type": "image/png",
-      "purpose": "any"
-    },
-    {
-      "src": "icons/icon-128x128.png",
-      "sizes": "128x128",
-      "type": "image/png",
-      "purpose": "any"
-    },
-    {
-      "src": "icons/icon-192x192.png",
-      "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "any maskable"
-    },
     {
       "src": "icon-300x300.png",
       "sizes": "300x300",
@@ -46,7 +22,7 @@
       "src": "icon-512x512.png",
       "sizes": "512x512",
       "type": "image/png",
-      "purpose": "any"
+      "purpose": "any maskable"
     }
   ],
   "screenshots": [
@@ -65,5 +41,5 @@
       "label": "HTML Cheat Sheet mobile view"
     }
   ]
-
 }
+
