@@ -1,6 +1,7 @@
 {
   "name": "My Story Game",
   "short_name": "StoryGame",
+  "description": "An interactive narrative story app for children with fun rewards.",
   "start_url": "/index.html",
   "display": "standalone",
   "background_color": "#ffffff",
