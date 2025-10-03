@@ -9,8 +9,8 @@ const STATIC_FILES = [
   '/manifest.json',
   '/app.js',
   // Add your icon paths here
-  '/icons/icon-192x192.png',
-  '/icons/icon-512x512.png'
+  '/icon-300x300.png',
+  '/icon-512x512.png'
 ];
 
 // Clean installation
@@ -77,4 +77,5 @@ self.addEventListener('fetch', (event) => {
       })
   );
 });
+
 
