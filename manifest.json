@@ -37,13 +37,13 @@
       "purpose": "any maskable"
     },
     {
-      "src": "icons/icon-300x300.png",
+      "src": "icon-300x300.png",
       "sizes": "300x300",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "icons/icon-512x512.png",
+      "src": "icon-512x512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
@@ -51,18 +51,19 @@
   ],
   "screenshots": [
     {
-      "src": "screenshots/desktop.png",
+      "src": "desktop.png",
       "sizes": "1280x720",
       "type": "image/png",
       "form_factor": "wide",
       "label": "HTML Cheat Sheet desktop view"
     },
     {
-      "src": "screenshots/mobile.png",
+      "src": "mobile.png",
       "sizes": "375x667",
       "type": "image/png",
       "form_factor": "narrow",
       "label": "HTML Cheat Sheet mobile view"
     }
   ]
+
 }
